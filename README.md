@@ -15,7 +15,17 @@ markdown
 Make sure you have Python installed. Then run:
 
 bash
-pip install -r requirements.txt
+pip install -r requirement.txt
+---
+
+### 📌 4. *How to Run the Script*
+markdown
+## ▶ Run the Script
+
+Run the script using:
+
+bash
+python job_scraper.py 
 ---
 
 ### 📌 5. *Sample Output*
